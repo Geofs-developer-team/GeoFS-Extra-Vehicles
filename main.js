@@ -283,8 +283,8 @@
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/Hang%20Glider%20Belgium_380019_3111/" data-mpid="50">Hang Glider Belgium (by Johani)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/Sikorsky UH-60 Black Hawk_380019_3068/" data-mpid="2806">Sikorsky UH-60 Black Hawk (by Spice_9)</li>
                         <li data-url="https://www.geo-fs.com/backend/aircraft/repository/c650_380019_5390/" data-mpid="2706">Bombardier Challenger 650 (by Ryan Xu)</li>
-                        <li data-url="https://www.geo-fs.com/backend/aircraft/repository/72e_380019_5519/" data-mpid="1005">Boeing 777-200ER (by MirageModels)</li>
-                    </ul>
+                        <li data-url="https://www.geo-fs.com/backend/aircraft/repository/72e_380019_5519/" data-mpid="1005">Boeing 777-200ER (by MirageModels)</li> </ul>
+                        <li data-url="https://www.geo-fs.com/backend/aircraft/repository/72e_380019_4565/" data-mpid="1005">Airbus A300 (by AirplanesAviation2361)</li>
                 </li>
                 <li class="geofs-list-collapsible-item">
                     Ground Vehicles
